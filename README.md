@@ -1,5 +1,5 @@
 # taskiOSApp
-
+An app where you can create different tasks with a title, a description and a due date. Then you can edit them, mark them as complete, or delete them. There is a calendar tab where you can see the tasks by date and wether you have compmeted them or not.
 ## Video Walkthrough
 
 <div>
